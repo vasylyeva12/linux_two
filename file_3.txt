@@ -1,0 +1,8 @@
+     UID     PID    PPID  TTY        STIME COMMAND
+    user    1511    1509 pty0     11:33:40 /usr/bin/bash
+    user    1509    1507 pty0     11:33:40 /usr/bin/bash
+    user    1380    1379 pty0     09:34:57 /usr/bin/bash
+    user    1510    1507 pty0     11:33:40 /usr/bin/bash
+    user    1507    1380 pty0     11:33:40 /usr/bin/bash
+    user    1675    1380 pty0     11:59:46 /usr/bin/ps
+    user    1379       1 ?        09:34:57 /usr/bin/mintty
